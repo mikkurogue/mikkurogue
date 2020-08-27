@@ -1,5 +1,11 @@
 ### Hej hej!
 
+I'm Michael, a .NET and JavaScript (TypeScript is more enjoyable though) developer. Currently working as a Software Engineer in the Netherlands.
+
+I'm always open for new projects, ideas, opportunities or just to talk! You can see my portfolio (albeit slightly barren and unpolished, but I'm an engineer not a designer get off my back 😛) over here at [mikkelzu.github.io](https://mikkelzu.github.io). There you can find my contact details and other amazing things that are definitely worth checking out 😃
+
+Anyway, back to work! Hej då!
+
 ![Mikkelzu's github stats](https://github-readme-stats.vercel.app/api?username=mikkelzu&theme=synthwave&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelzu&layout=compact&theme=synthwave)
