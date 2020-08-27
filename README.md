@@ -1,8 +1,8 @@
 ### Hej hej!
 
-[![Mikkelzu's github stats](https://github-readme-stats.vercel.app/api?username=mikkelzu&theme=synthwave&show_icons=true)]
+![Mikkelzu's github stats](https://github-readme-stats.vercel.app/api?username=mikkelzu&theme=synthwave&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelzu&layout=compact&theme=synthwave)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelzu&layout=compact&theme=synthwave)
 
 <!--
 **Mikkelzu/mikkelzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
