@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Mikkelzu's github stats](https://github-readme-stats.vercel.app/api?username=mikkelzu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Mikkelzu/mikkelzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
