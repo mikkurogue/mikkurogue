@@ -1,8 +1,8 @@
-### Hej hej!
+### Terve!
 
 I'm Michael, a .NET and JavaScript (TypeScript is more enjoyable though) and upcoming Swift/iOS developer.
 
-Tjena tjena!
+moikka!
 
 ![Mikkelzu's github stats](https://github-readme-stats.vercel.app/api?username=mikkelzu&theme=synthwave&show_icons=true)
 
