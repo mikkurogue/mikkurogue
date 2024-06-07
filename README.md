@@ -1,6 +1,10 @@
 ### Terve!
 
-Mä olen Michael, a .NET and JavaScript (TypeScript is more enjoyable though) and upcoming Swift/iOS developer.
+Mä olen Mikku (tai Mikki).
+
+I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://www.bigmile.eu) as a full stack engineer.
+
+I mostly use TypeScript for most tasks, but currently am learning Rust & Go.
 
 moikka!
 
