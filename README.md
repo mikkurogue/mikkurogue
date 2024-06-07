@@ -1,12 +1,12 @@
 ### Terve!
 
-I'm Michael, a .NET and JavaScript (TypeScript is more enjoyable though) and upcoming Swift/iOS developer.
+Mä olen Michael, a .NET and JavaScript (TypeScript is more enjoyable though) and upcoming Swift/iOS developer.
 
 moikka!
 
-![Mikkelzu's github stats](https://github-readme-stats.vercel.app/api?username=mikkelzu&theme=synthwave&show_icons=true)
+![Mikkurogue's github stats](https://github-readme-stats.vercel.app/api?username=mikkurogue&theme=synthwave&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelzu&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkurogue&layout=compact&theme=synthwave)
 
 <!--
 **Mikkelzu/mikkelzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
