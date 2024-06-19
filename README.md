@@ -4,9 +4,17 @@ Mä olen Mikku (tai Mikki).
 
 I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://www.bigmile.eu) as a full stack engineer.
 
-I mostly use TypeScript for most tasks, but currently am learning Rust & Go.
+I use mostly TypeScript and Next.js for frontend development and Go for fast and performant backend tasks, CLI tools.
+
+I will say, Go is a superior language to TS. There, I said it. Fight me.
+
+Anyhow, if you are interested in collaborating or want any advice contact me by sending a message on Github.
+
+I am a certified LinkedIn hater - very rarely do I check LinkedIn so that isn't something I recommend trying to contact me through.
 
 moikka!
+
+Mikku
 
 ![Mikkurogue's github stats](https://github-readme-stats.vercel.app/api?username=mikkurogue&theme=rose_pine&show_icons=true)
 
