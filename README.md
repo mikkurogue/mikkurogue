@@ -8,9 +8,9 @@ I mostly use TypeScript for most tasks, but currently am learning Rust & Go.
 
 moikka!
 
-![Mikkurogue's github stats](https://github-readme-stats.vercel.app/api?username=mikkurogue&theme=synthwave&show_icons=true)
+![Mikkurogue's github stats](https://github-readme-stats.vercel.app/api?username=mikkurogue&theme=rose_pine&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkurogue&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkurogue&layout=compact&theme=rose_pine)
 
 <!--
 **Mikkelzu/mikkelzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
