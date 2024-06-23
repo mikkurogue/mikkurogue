@@ -8,7 +8,7 @@ I use mostly TypeScript and Next.js for frontend development and Go for fast and
 
 I will say, Go is a superior language to TS. There, I said it. Fight me.
 
-Anyhow, if you are interested in collaborating or want any advice contact me by sending a message on Github or join the [discord](https://discord.gg/sjuAavPyQt) for my open source cli project.
+Anyhow, if you are interested in collaborating sending a message on Github or join the [discord](https://discord.gg/sjuAavPyQt) for my open source cli project. I'm always open to join in on a project too!
 
 I am a certified LinkedIn hater - very rarely do I check LinkedIn so that isn't something I recommend trying to contact me through.
 
