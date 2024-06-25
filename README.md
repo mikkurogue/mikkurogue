@@ -4,9 +4,13 @@ Mä olen Mikku (tai Mikki).
 
 I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://www.bigmile.eu) as a full stack engineer.
 
-I use mostly TypeScript and Next.js for frontend development and Go for fast and performant backend tasks, CLI tools.
+Quick skillzzset history:
 
-I will say, Go is a superior language to TS. There, I said it. Fight me.
+Started in .NET/C#/VB.net land. Hated it. Went to Self-Employed land where I built mostly garbage IO node apps or consulted on JavaScript techniques for clients. Not all that great but beats .NET Framework. After this dipped my toes in Angular 11. That was an experience of all time. Soon after, I landed (somehow) back in C# and .NET framework island (not .NET core or anything good, just good old .NET framework 3.5). Then it was React's turn to get my sweaty greasy anime hands on, intensely disliked React and yet somehow became a lead frontend engineer and re-wrote everything in Next.js. Now, I just write whatever I need to.
+
+However, I use mostly TypeScript and Next.js (yes I know, ew but I just happen to like it for some reason, at least its not Angular) for frontend development and Go for fast and performant backend tasks, CLI tools.
+
+I will say, `Go` is a superior language to TS. the JS ecosystem does pretty much ruin the experience for me, hence I prefer Go nowadays for almost anything.
 
 Anyhow, if you are interested in collaborating sending a message on Github or join the [discord](https://discord.gg/sjuAavPyQt) for my open source cli project. I'm always open to join in on a project too!
 
