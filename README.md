@@ -8,6 +8,7 @@ I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://w
 - qualified typescript disliker
 - absolute turno nerd
 - founder of [Viperd](https://github.com/viperdsw)
+- ESLint hater (all the cool guys use biome)
 
 moikka!
 
