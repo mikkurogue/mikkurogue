@@ -4,8 +4,11 @@ Olen Mikku (tai Mikki).
 
 I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://www.bigmile.eu) as a full stack engineer.
 
-- certified linkedin hater
+- certified go enjoyer
 - qualified typescript disliker
+- self admitted c# programmer
+- authentic agile hater
+- undisputed heavyweight champion of arguing about non-sense in video games
 
 Go is a better language than typescript and i will stand by it forever
 
