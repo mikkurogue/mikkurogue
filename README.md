@@ -7,7 +7,7 @@ I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://w
 - certified go enjoyer
 - qualified typescript disliker
 - self admitted c# programmer
-- authentic agile hater
+- authentic scrum mommy displeaser
 - undisputed heavyweight champion of arguing about non-sense in video games
 
 Go is a better language than typescript and i will stand by it forever
