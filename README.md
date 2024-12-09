@@ -10,7 +10,12 @@ I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://w
 - authentic scrum mommy displeaser
 - undisputed heavyweight champion of arguing about non-sense in video games
 
-Go is a better language than typescript and i will stand by it forever
+Go is a better language than typescript and i will stand by it forever.
+
+plan for 2025:
+- Learn Zig
+- Contribute to zig projects
+- Become a giga chad
 
 moikka!
 
