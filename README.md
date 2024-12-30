@@ -4,6 +4,7 @@ Olen Mikku (tai Mikki).
 
 I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://www.bigmile.eu) as a full stack engineer.
 
+- zig low-wit user (working on becoming midwit)
 - certified go enjoyer
 - qualified typescript disliker
 - self admitted c# programmer
