@@ -4,6 +4,8 @@ Olen Mikku (tai Mikki).
 
 I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://www.bigmile.eu) as a full stack engineer.
 
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
 - zig low-wit user (working on becoming midwit)
 - certified go enjoyer
 - qualified typescript disliker
