@@ -15,8 +15,7 @@ Go is a better language than typescript and i will stand by it forever.
 
 plan for 2025:
 - Learn Zig
-- Contribute to zig projects
-- Become a giga chad
+- Become a Ziga chad
 
 moikka!
 
