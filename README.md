@@ -13,13 +13,13 @@ I'm a Finnish/Dutch software engineer. Currently employed at [BigMile](https://w
 - authentic scrum mommy displeaser
 - undisputed heavyweight champion of arguing about non-sense in video games
 
-Go is a better language than typescript and i will stand by it forever.
+`Zig is great.`
 
-plan for 2025:
-- Learn Zig
-- Become a Ziga chad
-- Learn Rust
-- Eat crabs
+`Rust makes it hard to write bad code by making it hard to write code in general.`
+
+`Go makes you productive by assuming you didn’t want anything fancy in the first place.`
+
+`TypeScript fixes JavaScript's mistakes while preserving just enough of them to still be bad.`
 
 moikka!
 
