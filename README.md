@@ -25,8 +25,5 @@ moikka!
 
 Mikku
 
-![Mikkurogue's github stats](https://github-readme-stats.vercel.app/api?username=mikkurogue&theme=neon&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkurogue&theme=neon&hide=html,css,cmake&langs_count=10&hide_title=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mikkurogue&theme=carbonfox&hide_border=true&border_radius=5&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+![Mikkurogue's github stats](https://github-readme-stats.vercel.app/api?username=mikkurogue&theme=catppuccin&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkurogue&theme=catppuccin&hide=html,css,cmake&layout=compact&langs_count=10&bg_color=1e1e2e&e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_title=true)
