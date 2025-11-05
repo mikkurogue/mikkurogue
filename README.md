@@ -19,5 +19,5 @@ Typhlosion is the best starter hands down.
 `Rust makes it hard to write bad code by making it hard to write code in general.`
 
 
-![Mikkurogue's github stats](https://github-readme-stats.vercel.app/api?username=mikkurogue&theme=catppuccin&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkurogue&theme=catppuccin&hide=html,css,cmake&layout=compact&langs_count=10&bg_color=1e1e2e&e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkurogue&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=mikkurogue&show_icons=true&theme=dark)
