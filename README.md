@@ -24,5 +24,5 @@ I use 2 split keyboards;
 `Rust makes it hard to write bad code by making it hard to write code in general.`
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkurogue&layout=compact&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=mikkurogue&show_icons=true&theme=dark)
+![mikkurogue's Stats](https://github-readme-stats.vercel.app/api?username=mikkurogue&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
+![mikkurogue's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkurogue&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
