@@ -21,9 +21,16 @@ impl Mikku {
     }
 }
 
-let mikku =```
+```
 
 Full stack programmer.
+Finnish/Dutch
+
+Mythic raider in WoW, I like games and anime alongside my programming.
+
+Currently working on `srcvault`, a git forge alternative.
+
+
 
 `Rust makes it hard to write bad code by making it hard to write code in general.`
 
