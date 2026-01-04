@@ -6,7 +6,7 @@ pub struct Mikku {
     pub editor: &str,
     pub os: &str,
     pub periphs: (&str, &str),
-};
+}
 
 impl Mikku {
     pub fn new() -> Self {
