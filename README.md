@@ -1,3 +1,5 @@
+[![GitPulse Verified](https://www.gitpulse.dev/api/maker-summary/mikkurogue/badge?size=compact&theme=dark)](https://www.gitpulse.dev/profile/mikkurogue)
+
 ```rust
 pub struct Mikku {
     pub name: &str,
